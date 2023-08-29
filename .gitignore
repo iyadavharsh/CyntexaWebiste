@@ -1,0 +1,60 @@
+allure-results/
+screenshots/
+test-output/
+build/
+
+application.log
+###########
+## Java
+###########
+.mtj.tmp/
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+hs_err_pid*
+activityLog.log 
+############
+## Maven
+###########
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionBackup
+pom.xml.next
+pom.xml.bak
+release.properties 
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties 
+.mvn/wrapper/maven-wrapper.java
+
+#############
+## IntelliJ
+############
+out/
+.idea_modules/
+*.iml
+*.ipr
+*/iws
+###########
+## Eclipse
+##########
+.settings/
+bin/
+tmp/
+/metadata
+.classpath
+.project
+*.tmp
+*.bak
+*~.nib
+local.properties
+.loadpath
+.factorypath
+
+## OS X
+###########
+.DS_Store
+
